@@ -1,6 +1,6 @@
 body{
     color: rgb(255, 255, 255);
-    background-color: red;
+    background-color: black;
     font-family: serif;
     margin: 2rem;
 }
@@ -40,5 +40,6 @@ button{
    border-radius: 0.7em;
    cursor: pointer;
 }
+
 
 
